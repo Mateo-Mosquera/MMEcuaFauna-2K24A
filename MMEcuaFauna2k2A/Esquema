@@ -1,0 +1,52 @@
+MMEcuaFauna2K24A/
+├──bin
+├──DataBase/
+|  |──MMHormiguero.sqlite
+├──Design/
+│   ├── MMDagramArq.drawio
+│   ├── MMDiagramaCasoDeUso.drawio
+│   └── MMDiagramaCasoDeClase.dio
+├──lib
+├──Script
+│   └── MMHormiga.sql
+├── src/
+│   ├── MMBusinessLogic/
+│   │   ├── MMHormigaBL.java
+│   │   └── MMAlimentoBL.java
+│   ├── MMUserInterface/
+│   │   ├── MMCustomerController/
+│   │   │   ├── MMButton.java
+│   │   │   ├── MMComboBox.java
+│   │   │   ├── MMPanelBar.java
+│   │   │   ├── MMTextBox.java
+│   │   │   └── MMStyles.java
+│   │   ├── MMForms/
+│   │   │   ├── MMActionPanel.java
+│   │   │   |── MMBottom.java
+│   │   │   |── MMCedula.java
+│   │   │   |── MMGridPanel.java
+│   │   │   |── MMHomiguero.java
+│   │   │   └── MMMainPanel.java
+│   │   ├── MMGUI/
+│   │   │   └── MMWindowsMain.java
+│   │   ├── MMResources/
+│   │   │   ├── Icons
+│   │   │   └── Logos
+│   ├── MMDataAccess/
+│   │   ├── Entities/
+│   │   ├── MMAlimento.java
+│   │   ├── MMGenoAlimento.java
+│   │   ├── MMHormiga.java
+│   │   ├── MMIngestaNativa.java
+│   │   ├── MMDAO/
+│   │   ├── MMAlimento.java
+│   │   └── MMHormigaDAO.java
+│   │   ├── MMDataHelper/
+│   │   └── MMDataHelper.java
+│   │   ├── MMDTO/
+│   │   ├── MMAlimentoDTO.java
+│   │   └── MMHormigaDTO.java
+│   │   ├── MMIDTO/
+│   │   └── MMIDTO.java
+│   └── App.java
+├── README.md

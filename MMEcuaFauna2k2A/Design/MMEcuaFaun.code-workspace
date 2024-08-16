@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "MMEcuaFauna2K2A",
+			"path": ".."
+		},
+		{
+			"name": "DKUserInterface",
+			"path": "../../../Downloads/DKUserInterface"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
